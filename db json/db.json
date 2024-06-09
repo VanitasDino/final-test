@@ -1,0 +1,25 @@
+{
+  "Products": [
+    {
+      "id": "796e",
+      "title": "cà phê",
+      "content": "content1",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.jabZCs8FNwp8kRpdCk_OUAHaFd&pid=Api&P=0&h=220",
+      "price": "567VND"
+    },
+    {
+      "id": "fdad",
+      "title": "trà sữa",
+      "content": "content2",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.tnXBwrm0b3GxHLmYRJRQsQHaHf&pid=Api&P=0&h=220",
+      "price": "56VND"
+    },
+    {
+      "id": "ce50",
+      "title": "cà phê sữa",
+      "content": "content3",
+      "image": "https://tse2.mm.bing.net/th?id=OIP.1_VCaom8n9185zhjbKRrhQHaEL&pid=Api&P=0&h=220",
+      "price": "20.000 đ"
+    }
+  ]
+}
